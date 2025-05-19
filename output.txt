@@ -1,0 +1,36 @@
+total 141984
+-rwx------@  1 igorkravtsov  staff    908608 27 мар 21:27  Чек-лист digital nomad new 4.numbers
+-rwx------@  1 igorkravtsov  staff    974056 20 янв 21:18  Чек-лист digital nomad new 7.numbers
+-rw-r--r--@  1 igorkravtsov  staff       280 24 окт  2024 <!Doctype html>.html
+-rw-r--r--@  1 igorkravtsov  staff       290 14 апр  2024 Assessment Instructions 2024.webloc
+-rw-r--r--@  1 igorkravtsov  staff    191097 29 апр  2024 EC1001 1.pdf
+-rw-r--r--@  1 igorkravtsov  staff   1710605 29 апр  2024 EC1001.pdf
+-rw-r--r--@  1 igorkravtsov  staff    243497 14 апр  2024 EC1002 assessment instructions.pdf
+-rw-r--r--@  1 igorkravtsov  staff   5351763  3 май  2024 EC1002_A00401.pdf
+drwxr-xr-x   3 igorkravtsov  staff        96 12 янв 21:11 Italy
+-rw-r--r--@  1 igorkravtsov  staff   5351050  7 май  2024 MATH 1_A00401.pdf
+-rw-r--r--@  1 igorkravtsov  staff     58395  8 мар 14:39 Profile (1).pdf
+-rw-r--r--@  1 igorkravtsov  staff     79509 21 авг  2023 Profile.pdf
+-rw-r--r--@  1 igorkravtsov  staff   6053717  9 май  2024 STAT 1_A00401.pdf
+-rw-r--r--@  1 igorkravtsov  staff     42361 30 сен  2024 Unknown.jpeg
+-rw-r--r--   1 igorkravtsov  staff       517 12 фев 22:28 Untitled-1.py
+-rw-r--r--   1 igorkravtsov  staff        51 11 фев 21:59 Untitled-10.py
+drwxr-xr-x   3 igorkravtsov  staff        96 18 дек 07:48 Visual Studio Code.app
+-rw-r--r--@  1 igorkravtsov  staff   2621486 29 апр  2024 bujhm.pdf
+-rw-------@  1 igorkravtsov  staff     81175 10 фев 21:52 download-1.jpg
+-rw-r--r--@  1 igorkravtsov  staff   8654829 30 авг  2023 ec1002.pdf
+-rw-r--r--@  1 igorkravtsov  staff      1026 20 ноя 21:50 index.html
+-rw-r--r--@  1 igorkravtsov  staff      6554 31 окт  2024 logo.png
+drwxr-xr-x   4 igorkravtsov  staff       128 23 янв 22:01 new_folder
+-rw-r--r--   1 igorkravtsov  staff         0  6 май 22:19 output.txt
+-rw-r--r--@  1 igorkravtsov  staff  21954732 10 янв 20:22 pass-scan.pdf
+-rw-r--r--   1 igorkravtsov  staff        58 24 окт  2024 style.css
+-rw-r--r--@  1 igorkravtsov  staff   2599374  1 авг  2023 оффер 1.pdf
+-rw-r--r--@  1 igorkravtsov  staff    793378  1 авг  2023 оффер 2.pdf
+-rw-r--r--@  1 igorkravtsov  staff    828509  1 авг  2023 оффер 3.pdf
+-rw-r--r--@  1 igorkravtsov  staff    489698  1 авг  2023 оффер 4.pdf
+-rw-r--r--@  1 igorkravtsov  staff    943591  1 авг  2023 оффер 5.pdf
+-rwx------@  1 igorkravtsov  staff    149799 21 авг  2023 траты.numbers
+-rw-r--r--@  1 igorkravtsov  staff  11882900  1 авг  2023 оффер.pdf
+-rwx------@  1 igorkravtsov  staff    648533 21 авг  2023 резюме.pages
+drwxr-xr-x  14 igorkravtsov  staff       448 23 апр 21:50 Обучение
